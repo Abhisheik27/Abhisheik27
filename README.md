@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 - 🧠 Master's in Data Science @ UCSD  
-- 💼 Python Developer at Scripps Institution of Oceanography  
-- 🔬 Working on AI + Interview Prep + Analytics + ML Pipelines  
+- 💼 Python Developer at Scripps Institution of Oceanography    
 - ⚽️ Football enthusiast!!
+- 🍳 I cook
 
 ---
 
