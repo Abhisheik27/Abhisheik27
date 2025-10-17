@@ -27,7 +27,7 @@
 ---
 
 ### 🤝 Connect With Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhisheikjadhav/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhisheikj/)
 [Portfolio](https://abhisheikjadhav.com)
 
 ---
