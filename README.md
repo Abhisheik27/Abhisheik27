@@ -1,13 +1,14 @@
 <h1 align="center">Hey there, I'm Abhisheik 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Python+Dev+%7C+Data+Science+Grad;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Developer+%7C+Data+Science+Grad;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🧠 Master's in Data Science @ UCSD  
+- 🧠 Master's in Data Science @ UCSD
+- Software Engineer @Easley-Dunn Productions Inc.  
 - 💼 Interned as Python Developer and Machine Learning Engineer    
 - ⚽️ Football enthusiast!!
 - 🍳 I cook
