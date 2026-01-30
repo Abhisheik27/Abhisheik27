@@ -13,6 +13,9 @@
 - ⚽️ Football enthusiast!!
 - 🍳 I cook
 
+- ![Profile Views](https://komarev.com/ghpvc/?username=Abhisheik27&color=blue)
+
+
 ---
 
 ### 🧰 Tech Stack
