@@ -7,9 +7,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧠 Master's in Data Science @ UCSD
-- Software Engineer @Easley-Dunn Productions Inc.  
-- 💼 Interned as Python Developer and Machine Learning Engineer    
+- 🧠 UCSD Alum
+- Founding Customer Engineer 
+- 💼 Worked as Python Developer, Machine Learning Engineer and Software Engineer.
 - ⚽️ Football enthusiast!!
 - 🍳 I cook
 
