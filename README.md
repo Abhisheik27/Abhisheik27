@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🧠 UCSD Alum
-- Founding Customer Engineer 
+- Forward Deployed Engineer
 - 💼 Worked as Python Developer, Machine Learning Engineer and Software Engineer.
 - ⚽️ Football enthusiast!!
 - 🍳 I cook
